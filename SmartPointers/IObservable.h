@@ -8,3 +8,4 @@ public:
 	virtual void removeObserver(IObserver<T>* o) = 0;
      virtual void notify() = 0;
 };
+//love CAT
